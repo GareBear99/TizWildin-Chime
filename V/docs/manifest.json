@@ -1,0 +1,18 @@
+{
+  "name": "TizWildin-Chime-Pack-Segment-V-Neon-Synthwave",
+  "bpm": 88,
+  "counts": {
+    "one_shots": 16,
+    "multis": 25,
+    "loops": 6,
+    "textures": 4,
+    "fx": 4
+  },
+  "style": [
+    "synthwave",
+    "smooth",
+    "retro-futurist",
+    "neon",
+    "hero instrument"
+  ]
+}

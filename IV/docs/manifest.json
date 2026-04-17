@@ -1,0 +1,13 @@
+{
+  "name": "TizWildin-Chime-Pack-Segment-IV-Aether-Reed",
+  "bpm": 88,
+  "identity": "aether reed / crystal voice",
+  "clean_render": true,
+  "contents": {
+    "one_shots": 16,
+    "multis": 25,
+    "loops": 6,
+    "textures": 4,
+    "fx": 4
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Void Chime Pack",
+  "subtitle": "Dark Eerie Void Chimes",
+  "bpm": 88,
+  "contents": {
+    "one_shots": 16,
+    "multis": 25,
+    "loops": 6,
+    "textures": 4,
+    "fx": 4
+  },
+  "character": "cold, hollow, dark, eerie, distant"
+}

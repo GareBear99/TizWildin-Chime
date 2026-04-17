@@ -1,0 +1,12 @@
+{
+  "name": "full_chime_pack",
+  "sample_rate": 44100,
+  "bpm": 88,
+  "counts": {
+    "one_shots": 16,
+    "multis": 25,
+    "loops": 6,
+    "textures": 4,
+    "fx": 4
+  }
+}

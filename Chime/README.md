@@ -1,6 +1,6 @@
 # Full Chime Pack
 
-Built around the uploaded reference direction: 88 BPM, wide slower arrangement, glass support, sparse shimmer accents, and restrained low-end support fileciteturn1file0
+Built around the original 88 BPM reference direction: wide slower arrangement, glass support, sparse shimmer accents, and restrained low-end support.
 
 ## Included
 - 16 one-shots
